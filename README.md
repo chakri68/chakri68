@@ -48,4 +48,4 @@ Web, App developer and designer
 
 ![](https://komarev.com/ghpvc/?username=chakri68)
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://github.com/delta68)
