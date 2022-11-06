@@ -5,8 +5,8 @@ Web, App developer and designer
 -------------------------------
 
 * ✉️  You can contact me at [chakridevireddy69@gmail.com](mailto:chakridevireddy69@gmail.com)
-* 🚀  I'm currently working on [CodeCollab](http://code-collab.vercel.app)
-* 🧠  I'm learning Flutter
+* 🚀  I'm currently working on [note-onn](http://note-onn.vercel.app)
+* 🧠  I'm learning Swelte
 * 🤝  I'm open to collaborating on projects made with NextJS
 
 ### Skills
