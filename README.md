@@ -2,14 +2,22 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/l0JMjOlnWNpDucp9e/giphy.gif"  />
+
+<div align="left" style="display: inline-block;">
+<li> ✉️  You can contact me at <a href="mailto:chakridevireddy69@gmail.com" target="_blank">chakridevireddy69@gmail.com</a> </li>
+<li> 🚀  I'm currently working on <a href="https://note-onn.vercel.app" target="_blank">note-onn</a> </li>
+<li> 🧠  I'm learning SwelteKit and MAUI </li>
+<li> ⚡ Got some cool ideas for a project? Ping me on <a href="#discord">discord</a> </li>
+<li> 🤝  I'm open to collaborating on projects made with any of the stacks below </li>
+</div>
+
+### <br />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&username=chakri68" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&username=chakri68" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/l0JMjOlnWNpDucp9e/giphy.gif"  />
 
 ###
 
@@ -35,13 +43,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" width="42" alt="godot logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <a href="discordapp.com/users/939895742850555934" target="_blank">
+<div align="center">
+  <a href="discordapp.com/users/939895742850555934" target="_blank" id="discord">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/chakradhar-reddy-d/" target="_blank">
@@ -59,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/chakri68/chakri68/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/chakri68/chakri68/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -68,3 +75,9 @@
 </div>
 
 ###
+
+<div align="center" markdown=1>
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://github.com/delta68)
+
+</div>
