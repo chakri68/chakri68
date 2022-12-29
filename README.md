@@ -7,7 +7,7 @@
 <div align="left" style="display: inline-block;">
 <li> ✉️  You can contact me at <a href="mailto:chakridevireddy69@gmail.com" target="_blank">chakridevireddy69@gmail.com</a> </li>
 <li> 🚀  I'm currently working on <a href="https://note-onn.vercel.app" target="_blank">note-onn</a> </li>
-<li> 🧠  I'm learning SwelteKit and MAUI </li>
+<li> 🧠  I'm learning SvelteKit and MAUI </li>
 <li> ⚡ Got some cool ideas for a project? Ping me on <a href="#discord">discord</a> </li>
 <li> 🤝  I'm open to collaborating on projects made with any of the stacks below </li>
 </div>
