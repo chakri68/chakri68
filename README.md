@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋! My name is Chakri and I'm a software developer</h2>
+<h2 align="left">Just exploring the possibilites ✨</h2>
 
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/l0JMjOlnWNpDucp9e/giphy.gif"  />
 
 <div align="left" style="display: inline-block;">
-<li> ✉️  You can contact me at <a href="mailto:chakridevireddy69@gmail.com" target="_blank">chakridevireddy69@gmail.com</a> </li>
-<li> 🚀  I'm currently working on <a href="https://note-onn.vercel.app" target="_blank">note-onn</a> </li>
-<li> 🧠  I'm learning SvelteKit and MAUI </li>
+<li> 🚀  I'm currently working on <a href="https://github.com/chakri68/todolist_pyqt" target="_blank">TodoList_PyQT</a> </li>
+<li> 🧠  I'm learning SvelteKit and PyQT </li>
 <li> ⚡ Got some cool ideas for a project? Ping me on <a href="#discord">discord</a> </li>
+<li> ✉️ Or if you prefer it old-school you can contact me <a href="mailto:chakridevireddy69@gmail.com" target="_blank">here</a> </li>
 <li> 🤝  I'm open to collaborating on projects made with any of the stacks below </li>
 </div>
 
@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" width="42" alt="godot logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
