@@ -5,10 +5,10 @@
 <img align="right" height="150" src="https://media.giphy.com/media/l0JMjOlnWNpDucp9e/giphy.gif"  />
 
 <div align="left" style="display: inline-block;">
-<li> 🚀  I'm currently working on <a href="https://github.com/chakri68/todolist_pyqt" target="_blank">TodoList_PyQT</a> </li>
-<li> 🧠  I'm learning SvelteKit and PyQT </li>
+<li> 🚀  I'm currently working on my <a href="https://github.com/chakri68/chakri68.github.io/tree/main/portfolio" target="_blank">portfolio</a> </li>
+<li> 🧠  I'm learning Data Structures, Algorithms, and Haskell </li>
 <li> ⚡ Got some cool ideas for a project? Ping me on <a href="#discord">discord</a> </li>
-<li> ✉️ Or if you prefer it old-school you can contact me <a href="mailto:chakridevireddy69@gmail.com" target="_blank">here</a> </li>
+<li> ✉️ Or if you prefer it old-school you can contact me <a href="mailto:chakridevireddy69+githubreadme@gmail.com" target="_blank">here</a> </li>
 <li> 🤝  I'm open to collaborating on projects made with any of the stacks below </li>
 </div>
 
