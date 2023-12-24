@@ -1,4 +1,4 @@
-<img align="center" src="/banner.png" />
+<img align="center" src="/banners/banner2.apng" />
 
 <h2 align="left">Just exploring the possibilites ✨</h2>
 
