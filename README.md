@@ -1,4 +1,4 @@
-<img align="center" src="https://res.cloudinary.com/ddjw9761e/image/upload/v1703446323/ezgif.com-loop-count_asbkgj.gif" />
+<img align="center" src="/banner.png" />
 
 <h2 align="left">Just exploring the possibilites ✨</h2>
 
