@@ -1,3 +1,5 @@
+<img align="center" src="https://res.cloudinary.com/ddjw9761e/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1703445037/brand-assets/chakradhar_reddy-2_bvv3l7.jpg?_s=public-apps" />
+
 <h2 align="left">Just exploring the possibilites ✨</h2>
 
 ###
