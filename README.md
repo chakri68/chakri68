@@ -7,18 +7,14 @@
 <img align="right" height="150" src="https://media.giphy.com/media/l0JMjOlnWNpDucp9e/giphy.gif"  />
 
 <div align="left" style="display: inline-block;">
-<li> 🚀  I'm currently working on <a href="https://github.com/DSC-IIITL/gdsc-iiitl-official" target="_blank">GDSC, IIITL official website</a> </li>
-<li> 🧠  I'm learning Graphic Design and Machine Learning </li>
-<li> ⚡ Got some cool ideas for a project? Ping me on <a href="#discord">discord</a> </li>
-<li> ✉️ Or if you prefer it old-school you can email me <a href="mailto:chakridevireddy69+githubreadme@gmail.com" target="_blank">here</a> </li>
+<li> 🚀  I'm currently working at <a href="https://www.linkedin.com/company/even-healthcare" target="_blank">Even</a> </li>
+<li> 🧠  I'm learning Go and Music Production </li>
+<li> ⚡  Got some cool ideas for a project? Ping me on <a href="#discord">discord</a> </li>
+<li> ✉️  Or if you prefer it old-school you can email me <a href="mailto:chakridevireddy69+githubreadme@gmail.com" target="_blank">here</a> </li>
 <li> 🤝  I'm open to collaborating on projects made with any of the stacks below </li>
 </div>
 
 ### <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&username=chakri68" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=false&username=chakri68" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -64,7 +60,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://codepen.io/chakri68" target="_blank">
-    <img src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" height="35" />
+    <img src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-white.png" height="35" />
   </a>
 </div>
 
@@ -80,14 +76,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/chakri68/count.svg?"  />
-</div>
-
-###
-
 <div align="center" markdown=1>
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://github.com/delta68)
-
 </div>
